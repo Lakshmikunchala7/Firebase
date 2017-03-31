@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FireBaseYYP</string>
+
+
+    <string-array name="list">
+        <item>RICE </item>
+        <item>DAAL </item>
+        <item>PENS </item>
+        <item>DRINKS</item>
+    </string-array>
+</resources>
